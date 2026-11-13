@@ -1,0 +1,650 @@
+# AI Prompt: Build a Premium Personal Portfolio Website for Belay Birhanu
+
+You are an award-winning UX/UI designer, brand strategist, and senior full-stack engineer. Your task is to design and build a world-class personal portfolio website for **Belay Birhanu**, a Senior QA Automation Engineer, Automation Architect, AI Agent Developer, and Software Engineer.
+
+The portfolio should represent the level of an engineer working at companies like Google, Microsoft, OpenAI, Stripe, or other world-class engineering organizations.
+
+The goal is not to create a traditional resume website. The goal is to create an interactive storytelling experience that visually demonstrates Belay's professional journey, engineering impact, technical depth, and evolution from software developer to enterprise automation engineer and AI engineering specialist.
+
+---
+
+# Design Direction
+
+## Theme
+
+Primary colors:
+
+- Light Blue
+- White
+- Black
+- Gold accents
+
+The design should feel:
+
+- Premium
+- Modern
+- Technical
+- Elegant
+- Minimalistic
+- Engineering-focused
+
+Avoid generic portfolio templates.
+
+Use:
+
+- Smooth animations
+- Glassmorphism
+- Modern cards
+- Subtle gradients
+- Interactive timeline
+- Micro-interactions
+- Scroll-based animations
+- Elegant typography
+- Clean spacing
+
+The overall feeling should communicate:
+
+"An engineer who builds systems that improve software quality, developer productivity, and engineering reliability."
+
+---
+
+# Hero Section
+
+Create a powerful opening section.
+
+Display:
+
+# Belay Birhanu
+
+## Senior QA Automation Engineer
+## AI Automation Engineer
+## Software Engineer
+
+Main headline:
+
+> Building Intelligent Automation Systems That Enable Teams to Ship Reliable Software Faster.
+
+Description:
+
+Belay specializes in enterprise automation, AI-powered engineering agents, UI/API/performance testing, CI/CD quality gates, and scalable software quality solutions.
+
+He builds systems that go beyond testing — systems that improve engineering processes, automate reviews, maintain code quality, and accelerate delivery.
+
+CTA:
+
+- View My Journey
+- Explore Projects
+- Download Resume
+- Contact Me
+
+Background:
+
+Create subtle animations inspired by:
+
+- AI agents
+- Automation pipelines
+- Code
+- Testing frameworks
+- CI/CD workflows
+
+---
+
+# About Me
+
+Create a professional storytelling section.
+
+Describe Belay as:
+
+A Senior QA Automation Engineer passionate about building intelligent automation systems, improving engineering quality, and creating tools that empower developers and QA teams.
+
+Key areas:
+
+- Enterprise Test Automation
+- AI Engineering Agents
+- Developer Productivity
+- Software Quality Engineering
+- CI/CD Automation
+- Frontend Engineering
+- API Testing
+- Performance Engineering
+- Modern UI Testing
+- Legacy System Modernization
+
+The message should emphasize:
+
+"I don't only test software. I build systems that make software better."
+
+---
+
+# Career Journey Timeline
+
+This is the centerpiece of the portfolio.
+
+Create a fully animated vertical zigzag timeline.
+
+The timeline must alternate:
+
+Left → Right → Left → Right
+
+Each milestone should include:
+
+- Company
+- Role
+- Duration
+- Location
+- Responsibilities
+- Technologies
+- Achievements
+- Quantifiable impact where available
+
+Each timeline card should animate when entering the viewport.
+
+Use:
+
+- Animated connecting lines
+- Progress indicators
+- Company icons/logos placeholders
+- Hover effects
+
+---
+
+# Professional Experience Timeline
+
+---
+
+# Freelance Web Developer
+
+Remote
+
+January 2019 – January 2021
+
+Role:
+
+Web Developer
+
+Responsibilities:
+
+- Built custom websites and web applications for clients.
+- Developed responsive user interfaces.
+- Delivered complete frontend and backend solutions.
+- Managed projects independently from development to deployment.
+
+Technologies:
+
+- JavaScript
+- React
+- HTML5
+- CSS3
+- Node.js
+
+Achievements:
+
+- Delivered production-ready applications.
+- Built experience in client communication and software delivery.
+
+---
+
+# Microverse
+
+Remote
+
+October 2022 – June 2023
+
+Role:
+
+Full Stack Web Development Program
+
+Description:
+
+Completed an intensive full-stack engineering program.
+
+Achievements:
+
+- Completed 1300+ hours of software engineering training.
+- Mastered algorithms, data structures, and full-stack development.
+- Built applications using Ruby, Rails, JavaScript, React, and Redux.
+- Practiced professional remote pair programming.
+- Worked using GitHub workflows, Agile methodologies, and daily standups.
+- Collaborated with international software developers.
+
+Technologies:
+
+- Ruby
+- Rails
+- JavaScript
+- React
+- Redux
+- Git
+- GitHub
+
+---
+
+# Microverse
+
+Remote
+
+October 2022 – June 2023
+
+Role:
+
+Volunteer Mentor
+
+Responsibilities:
+
+- Mentored software developers.
+- Conducted code reviews.
+- Helped developers debug complex issues.
+- Supported software engineering best practices.
+- Guided developers through professional workflows.
+
+Achievements:
+
+- Supported developers in becoming industry-ready engineers.
+- Improved collaboration and engineering practices.
+
+---
+
+# 10 Academy
+
+Remote
+
+June 2023 – September 2023
+
+Role:
+
+Frontend Developer Intern
+
+Responsibilities:
+
+- Developed modern frontend applications.
+- Built reusable UI components.
+- Integrated APIs.
+- Implemented responsive designs.
+
+Technologies:
+
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- REST APIs
+
+---
+
+# 10 Academy
+
+Remote
+
+September 2023 – June 2025
+
+Role:
+
+Frontend Developer
+
+Description:
+
+Built scalable, high-performance frontend applications focusing on performance, accessibility, maintainability, and modern frontend architecture.
+
+Achievements:
+
+- Improved application performance by identifying and eliminating rendering bottlenecks through React optimization techniques.
+- Applied memoization, lazy rendering, component splitting, and rendering optimization strategies.
+- Improved Progressive Web Application performance through dynamic imports, code splitting, asset optimization, and service worker caching.
+- Optimized GraphQL data fetching by improving queries and implementing intelligent caching strategies using TanStack Query.
+- Built 25+ reusable Ant Design components to improve UI consistency and development efficiency.
+- Implemented dynamic filtering systems with synchronized application state.
+- Developed real-time AI interview features using WebSockets.
+- Improved accessibility by following WCAG guidelines and applying strong TypeScript practices.
+- Improved development workflow using ESLint and Prettier standards.
+- Reduced unnecessary review cycles through better coding standards and maintainability.
+
+Technologies:
+
+- React
+- TypeScript
+- Next.js
+- Redux
+- GraphQL
+- TanStack Query
+- Ant Design
+- TailwindCSS
+- WebSockets
+- PWA
+- Git
+
+---
+
+# Computrition
+
+Boston, USA
+
+Remote
+
+July 2025 – Present
+
+Role:
+
+Mid-Senior Automation Engineer
+
+This should be the largest and most visually impressive timeline milestone.
+
+Description:
+
+Responsible for building enterprise automation solutions, improving release quality, creating AI-powered engineering agents, and supporting QA and development teams.
+
+Responsibilities:
+
+## Automation Engineering
+
+- Design and maintain enterprise UI automation frameworks.
+- Develop API automation solutions.
+- Build performance testing solutions.
+- Maintain regression automation.
+- Modernize automation frameworks for modern and legacy systems.
+
+## AI Engineering
+
+Develop AI-powered engineering agents including:
+
+- PR Reviewer Agent
+- Code Quality Maintenance Agent
+- Automated Code Review Systems
+
+Capabilities:
+
+- Analyze pull requests.
+- Review coding standards.
+- Identify defects.
+- Provide automated feedback.
+- Integrate AI into engineering workflows.
+
+## Quality Engineering
+
+- Build release quality gates.
+- Maintain CI/CD automation pipelines.
+- Improve software reliability.
+- Support QA engineers.
+- Collaborate with developers.
+- Perform code reviews.
+
+Technologies:
+
+- Playwright
+- TypeScript
+- Node.js
+- Azure DevOps
+- Postman
+- JMeter
+- REST APIs
+- Git
+- CI/CD
+- AI Agents
+
+Achievements:
+
+- Built AI-powered PR review automation.
+- Automated enterprise UI workflows.
+- Developed API automation frameworks.
+- Created quality gate solutions.
+- Improved testing reliability.
+- Supported QA automation strategy.
+- Worked across modern React applications and legacy enterprise systems.
+
+---
+
+# Technical Skills
+
+Create animated skill cards.
+
+## Frontend
+
+- JavaScript
+- TypeScript
+- React
+- Redux
+- Next.js
+- Vue.js
+- TailwindCSS
+- Ant Design
+- shadcn/ui
+- HTML5
+- CSS3
+
+---
+
+## Backend
+
+- Node.js
+- .NET
+- C#
+- Ruby
+- Rails
+- FastAPI
+- NestJS
+- Strapi
+- Prisma
+- GraphQL
+- REST API
+- SQL
+- MySQL
+- Python
+
+---
+
+## Automation & Quality Engineering
+
+Highlight these prominently:
+
+- Playwright
+- Postman
+- JMeter
+- UI Automation
+- API Automation
+- Performance Testing
+- Regression Testing
+- End-to-End Testing
+- Accessibility Testing
+- CI/CD Quality Gates
+
+---
+
+## Tools
+
+- Git
+- GitHub
+- Azure DevOps
+- AWS
+- Netlify
+- Chrome DevTools
+- Cursor
+
+---
+
+# Featured Projects
+
+Create premium project cards.
+
+Projects:
+
+## AI PR Reviewer Agent
+
+Description:
+
+An AI-powered pull request review system that analyzes code changes, identifies issues, provides feedback, and improves engineering quality.
+
+Technologies:
+
+- AI Agents
+- TypeScript
+- CI/CD
+- Code Analysis
+
+---
+
+## Enterprise Automation Framework
+
+Description:
+
+A scalable automation framework supporting UI, API, and regression testing.
+
+Technologies:
+
+- Playwright
+- TypeScript
+- API Testing
+- CI/CD
+
+---
+
+## Code Quality Maintenance Agent
+
+Description:
+
+An intelligent agent designed to maintain coding standards, detect issues, and improve developer workflows.
+
+---
+
+# Education
+
+## Adama Science and Technology University
+
+Master of Science (MSc)
+
+Computer Science and Engineering
+
+October 2021 – June 2023
+
+GPA:
+
+3.81 / 4.0
+
+Thesis:
+
+**Sentiment Analysis on Social Media in Afaan Oromo Using Multilingual BERT**
+
+Research Areas:
+
+- Natural Language Processing
+- Multilingual Language Models
+- Sentiment Analysis
+- Data Cleaning
+- Data Annotation
+- Social Media Analysis
+
+
+---
+
+## Mekelle Institute of Technology
+
+Bachelor of Science (BSc)
+
+Computer Science and Engineering
+
+October 2014 – June 2018
+
+GPA:
+
+3.83 / 4.0
+
+Capstone Project:
+
+**Detection and Classification of Agricultural Plant Leaf Diseases Using ConvNet and Image Processing**
+
+Research Areas:
+
+- Machine Learning
+- Computer Vision
+- Convolutional Neural Networks
+- Image Processing
+- Classification Algorithms
+
+---
+
+# Languages
+
+Display elegantly:
+
+English
+
+Fluent
+
+
+Amharic
+
+Native
+
+
+Afaan Oromo
+
+Native
+
+---
+
+# Technical Implementation Requirements
+
+Build using:
+
+- Next.js
+- TypeScript
+- TailwindCSS
+- shadcn/ui
+- Framer Motion
+- GSAP
+
+Requirements:
+
+- Responsive design
+- Mobile-first
+- SEO optimized
+- Lighthouse score 95+
+- Dark/light mode
+- Accessible design
+- Clean architecture
+
+Store:
+
+- Experience data
+- Skills
+- Projects
+- Education
+
+in separate data files.
+
+---
+
+# Final Goal
+
+Create a portfolio that tells the story of Belay's evolution:
+
+From:
+
+Freelance Developer
+
+↓
+
+Full Stack Engineer
+
+↓
+
+Frontend Engineer
+
+↓
+
+Senior QA Automation Engineer
+
+↓
+
+AI Automation Engineer
+
+
+The final website should demonstrate:
+
+- Technical depth
+- Engineering maturity
+- Automation expertise
+- AI innovation
+- Leadership
+- Real-world impact
+
+The zigzag timeline should be the heart of the experience, visually showing career growth and measurable achievements.
