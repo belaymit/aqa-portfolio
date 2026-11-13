@@ -77,7 +77,7 @@ export const experiences: Experience[] = [
   {
     id: 'computrition',
     company: 'Computrition',
-    role: 'Mid-Senior QA Automation Engineer',
+    role: 'Senior QA Automation Engineer',
     type: 'work',
     location: 'Boston, USA',
     remote: true,
